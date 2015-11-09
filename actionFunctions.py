@@ -2,6 +2,8 @@
 #Examples being a left click, a hold down for a set duration
 #Not all Action functions need to be defined here
 
+#Testing commit functionality
+
 
 import win32api, win32con
 import time
